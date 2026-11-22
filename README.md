@@ -1,5 +1,7 @@
 # 群晖助手 DSM helper
 
+[中文](README.md) | [English](README_EN.md)
+
 适用于群晖DSM的手机版本。采用新拟态设计风格。
 
 #隐私相关
@@ -39,8 +41,15 @@
 ⑤群：112751763
 
 # 软件下载
-安卓：https://gitee.com/apaipai/dsm_helper/releases  
-iOS：AppStore搜索：派派助手
+
+**Android APK（本仓库构建，0.0.155）：** [dsm_helper-0.0.155-release.apk](release/dsm_helper-0.0.155-release.apk)  
+SHA-256：`8a0421868ece890cd4ec7eeeacf2ec83b13202f67ff45c27f7b1a0d8ffe4b63f`  
+系统要求：Android 5.0+（API 21），arm64-v8a
+
+官方/历史版本：https://gitee.com/apaipai/dsm_helper/releases  
+iOS：AppStore 搜索“派派助手”
+
+> 本仓库 APK 使用本地测试签名，和官方包签名不同；安装前请先卸载官方版本（会清空 App 本地数据）。
 
 # 更新日志
 
